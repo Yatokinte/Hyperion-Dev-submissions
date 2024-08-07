@@ -1,0 +1,28 @@
+Pseudo
+
+1) request user to enter different numbers repeatedly 
+   if number has a zero value
+        Determine the largest of the numbers
+   else
+        Ask the user to continue inputting numbers
+
+2) Ask the user for their first name
+   Store user input in variable first_name
+   output text "Hello world" + variable first_name
+
+3) Read all given numbers
+   plus all given values together then divide with the amount of values given
+
+4) Ask user to input groceries list
+   sort the groceries listed from top to bottom in alphabetical order
+   ask the user what product they have bought so far.
+   if product name was given
+       remove it from the list
+   else
+       ask the user again what product has been purchased
+
+5) read the values of X,Y
+   plus the values of X and y and save it as variable S
+   Divide the value of X plus Y by 2 and save it as variable A
+   Times the value of X with Y and save it as variable P
+   output the the variables as S,A,P
